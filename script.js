@@ -1,4 +1,4 @@
-document.onmousemove = animateCircles
+// document.onmousemove = animateCircles
 
 var colors = ['#ccc', '#6cf', '#eba13a', '#111', '#243534', '#242', '#FFC0CB'];
 
@@ -29,3 +29,12 @@ function animateCircles(event) {
 
 }
 
+/*function test() {
+  var test = document.getElementById('test');
+  test.style.height = "200px";
+  test.style.width = "200px";
+  test.style.setProperty('background-color', 'green');
+  test.style.transition = "width 2s, height 5s";
+}
+
+test(); */
