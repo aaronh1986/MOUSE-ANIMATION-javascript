@@ -1,0 +1,13 @@
+.circle {
+    width: 20px;
+    height: 20px;
+    border: solid 1px black;
+    position: absolute;
+    border-radius: 50%;
+}
+
+.bollocks {
+    height: 500px;
+    width: 500px;
+    background-color: black;
+}
